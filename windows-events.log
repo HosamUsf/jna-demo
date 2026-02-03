@@ -1,0 +1,14 @@
+2026-02-03 19:23:26 | LOCK | Workstation Locked
+2026-02-03 19:23:29 | UNLOCK | Workstation Unlocked
+2026-02-03 19:31:25 | LOCK | Workstation Locked
+2026-02-03 19:31:25 | SLEEP | System Going to Sleep/Hibernate
+2026-02-03 19:31:58 | RESUME | System Resumed from Sleep/Hibernate
+2026-02-03 19:31:58 | RESUME | System Resumed from Sleep/Hibernate
+2026-02-03 19:32:04 | UNLOCK | Workstation Unlocked
+2026-02-03 19:44:24 | LOCK | Workstation Locked
+2026-02-03 19:44:24 | SLEEP | System Going to Sleep/Hibernate
+2026-02-03 19:45:12 | RESUME | System Resumed from Sleep/Hibernate
+2026-02-03 19:45:12 | RESUME | System Resumed from Sleep/Hibernate
+2026-02-03 19:45:21 | UNLOCK | Workstation Unlocked
+2026-02-03 19:45:36 | SHUTDOWN | System Shutting Down or Restarting
+2026-02-03 19:45:36 | SHUTDOWN | System Shutting Down or Restarting
